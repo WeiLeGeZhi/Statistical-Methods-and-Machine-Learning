@@ -1,15 +1,15 @@
 # Statistical-Methods-and-Machine-Learning
 WEN Zhaohe's repository for course "Statistical Methods and Machine Learning"
 ## Labs
-- Lab1
-- Lab2
-- Lab3
-- Lab4
-- Lab5
-- Lab6
-- Lab7
-- Lab8
-- Lab9
+- Lab 1
+- Lab 2
+- Lab 3
+- Lab 4
+- Lab 5
+- Lab 6
+- Lab 7
+- Lab 8
+- Lab 9
 ## Homeworks
 - Homework 1
 - Homework 2
