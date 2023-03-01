@@ -1,0 +1,24 @@
+[
+    {
+        "question": "alpha 与 k 的关系是什么？",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "alpha = k * n",
+                "correct": false
+            },
+            {
+                "answer": "alpha = k / n",
+                "correct": true
+            },
+            {
+                "answer": "alpha = k * n^{1/2}",
+                "correct": false
+            },
+            {
+                "answer": "alpha = k / n^{1/2}",
+                "correct": false
+            }
+        ]
+    }
+]

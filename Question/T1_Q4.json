@@ -1,0 +1,24 @@
+[
+    {
+        "question": "单因素方差分析模型对数据存在哪些假设",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "数据是相互独立的",
+                "correct": true
+            },
+            {
+                "answer": "各组数据是同分布的",
+                "correct": false
+            },
+            {
+                "answer": "各组数据的波动是一致的",
+                "correct": true
+            },
+            {
+                "answer": "各组数据服从正态分布",
+                "correct": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "question": "你觉得哪种材料最为合适？",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "基片材料 1",
+                "correct": false
+            },
+            {
+                "answer": "基片材料 2",
+                "correct": false
+            },
+            {
+                "answer": "基片材料 3",
+                "correct": true
+            }
+        ]
+    }
+]

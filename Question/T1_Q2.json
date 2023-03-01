@@ -1,0 +1,24 @@
+[
+    {
+        "question": "根据所计算的检验统计量，我们应与哪个临界值进行比较？（显著性水平取0.05）",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "临界值为 0.0513",
+                "correct": false
+            },
+            {
+                "answer": "临界值为 0.1167",
+                "correct": false
+            },
+            {
+                "answer": "临界值为 3.1296",
+                "correct": true
+            },
+            {
+                "answer": "临界值为 2.7375",
+                "correct": false
+            }
+        ]
+    }
+]

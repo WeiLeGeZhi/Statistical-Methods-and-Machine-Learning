@@ -1,0 +1,24 @@
+[
+    {
+        "question": "对于相同的显著性水平，比较基于Tukey方法所构造的同时置信区间与基于Bonferroni方法所构造的同时置信区间，以下哪些命题是正确的",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "两个置信区间的中值相同",
+                "correct": true
+            },
+            {
+                "answer": "两个置信区间的中值点不相同",
+                "correct": false
+            },
+            {
+                "answer": "基于Tukey方法所构造的同时置信区间更宽",
+                "correct": false
+            },
+            {
+                "answer": "基于Tukey方法所构造的同时置信区间更窄",
+                "correct": true
+            }
+        ]
+    }
+]
