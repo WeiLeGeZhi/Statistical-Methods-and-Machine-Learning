@@ -1,5 +1,5 @@
 # Statistical-Methods-and-Machine-Learning
-WEN Zhaohe's repository for course "Statistical Methods and Machine Learning"
+WEN Zhaohe's repository for course Statistical Methods and Machine Learning
 ## Labs
 - Lab 1
 - Lab 2
